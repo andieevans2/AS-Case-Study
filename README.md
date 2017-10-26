@@ -1,5 +1,5 @@
 # AS-Case-Study
-R
+Project Description
 
 Ankylosing spondylitis (AS) is a chronic form of arthritis which limits the motion of the spine
 and muscles. This study was carried out at the Royal National Hospital for Rheumatic Diseases in
