@@ -7,7 +7,7 @@ Bath. The purpose of this designed experiment is to see if daily stretching of t
 hip joints would help patients with AS to get more movement in their hip joints. In this designed
 experiment, 12 patients were assigned to the control group, and 27 patients were assigned to the
 treatment group. The client provided the raw data from the experiment and asked us to analyze
-and provide answers to their research questions stated in section 1.1.
+and provide answers to their research questions.
 
 Set up of Data Collection:
 Thirty-nine consecutive admitted patients with typical AS were allocated randomly to a control
